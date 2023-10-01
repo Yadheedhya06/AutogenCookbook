@@ -64,17 +64,4 @@ Welcome to the AutoGen-Example-Scripts repository! This repository is designed f
      ```bash
      python open_source_models.py
      ```
-
-## Why This Repository?
-
-The main goal of this repository is to provide a seamless experience for users who want to explore the capabilities of AutoGen without getting bogged down by the setup process. By offering a streamlined setup and execution process, we hope to encourage more users to experiment with and benefit from the AutoGen library.
-
-## Contribution
-
-Feel free to contribute to the project by submitting pull requests or issues. Ensure you follow the contribution guidelines provided by the repository.
-
-## License
-
-This project is licensed under the MIT License. Refer to the `LICENSE` file for more details.
-
 ---
